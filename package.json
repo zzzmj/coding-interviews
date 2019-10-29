@@ -1,0 +1,22 @@
+{
+  "name": "coding-interviews",
+  "version": "1.0.0",
+  "description": "javascript版本题解",
+  "main": "tool.js",
+  "bin": {
+    "mj-cli": "tool.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzzmj/coding-interviews.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zzzmj/coding-interviews/issues"
+  },
+  "homepage": "https://github.com/zzzmj/coding-interviews#readme"
+}
